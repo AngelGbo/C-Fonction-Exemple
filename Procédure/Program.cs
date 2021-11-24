@@ -9,7 +9,7 @@ namespace SIO
         /// </summary>
         static void ajout()
         {
-            Console.Write("Traitement Ajout ");
+            Console.Write("Traitement Ajout... ");
             Console.ReadKey();
         }
 
